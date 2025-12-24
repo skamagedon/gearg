@@ -1,0 +1,13 @@
+# Build outputs
+.pio/
+.vscode/
+*.elf
+*.bin
+*.map
+
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Local configs (optional; not tracked)
+config.local.h
